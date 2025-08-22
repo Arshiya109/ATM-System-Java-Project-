@@ -76,10 +76,10 @@ For demo purposes, you can log in with:
 👉 Screenshots of:
 
 Login screen
-![Login Screen](screenshots/login.png)
+![Login Screen](Screenshots/login.png)
 
 ATM interface
-![ATM Interface](screenshots/interface.png)
+![ATM Interface](Screenshots/interface.png)
 
 
 ## Author
